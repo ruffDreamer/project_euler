@@ -1,4 +1,4 @@
 Project Euler solutions
 =======================
 
-This package contains ruffDreamers' program code to solve Project Euler problems.
+This package contains jordandraper's program code to solve Project Euler problems.
